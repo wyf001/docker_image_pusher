@@ -8,7 +8,7 @@ mysql
 openjdk
 apache/skywalking-oap-server
 apache/skywalking-ui
-kibana
+kibana:8.17.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
